@@ -17,3 +17,42 @@
  @import "bootstrap-sprockets";
  @import "bootstrap";
  @import "font-awesome";
+ .jumbotron {
+   background-image:url('http://syc-oh.com/wp-content/uploads/2016/08/Online-Shopping.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding-bottom: 80px;
+ }
+
+ .title {
+   font-family: "Helvetica Neue", "Microsoft Yahei", 微软雅黑;
+   text-align: right;
+   margin-top: 200px;
+   margin-bottom: 100px;
+ }
+
+ .slogan {
+   margin-top: 10px;
+   margin-bottom: 50px;
+   text-align: left;
+   color: #99999;
+   top: 12px;
+ }
+
+ .lead {
+   margin-bottom: 60px;
+   text-align: left;
+   color: white;
+ }
+
+ .caption {
+   margin: 30px;
+   text-align: center;
+   top: 20px;
+ }
+
+ .thumbnail {
+     border: 0 none;
+     box-shadow: none;
+     margin-top: 60px;
+ }
